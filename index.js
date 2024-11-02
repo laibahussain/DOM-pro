@@ -1,3 +1,6 @@
+// html picture on browser is called dom 
+// html file is called document
+
 let heading0 = document.querySelector("#btn0")
 let heading2 = document.querySelector("#btn1")
 let isStyle = true
